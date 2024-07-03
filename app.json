@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "TodoList",
+    "slug": "TodoList",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/newicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/newicon.png",
+        "backgroundColor": "#fff6e9"
+      },
+      "package": "com.ezhil007.TodoList"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "10102f12-2c22-4d81-bccc-f78fdbb1bb06"
+      }
+    }
+  }
+}
